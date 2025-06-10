@@ -1,16 +1,43 @@
-## Hi there 👋
+![Muhammad Fattan](github-header-image.png)
 
-<!--
-**MuhammadFattan/MuhammadFattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuhammadFattan&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MuhammadFattan&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFattan&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img align="right" height="150" src="Girl Manga GIF.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="35" alt="html"  />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="35" alt="tailwindcss"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/muhammad.fattan.809973">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" alt="facebook"  />
+  </a>
+  
+  <a href="https://instagram.com/fxttanar2209_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" alt="instagram"  />
+  </a>
+  
+  <a href="mailto:fattanar84@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30" alt="email"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
