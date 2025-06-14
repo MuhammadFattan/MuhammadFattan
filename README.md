@@ -1,8 +1,6 @@
 ![Muhammad Fattan](github-header-image.png)
 
 
-##### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadFattan&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
