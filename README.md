@@ -12,17 +12,13 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="35" alt="html"  />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" height="35" alt="react" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="35" alt="tailwindcss"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.facebook.com/muhammad.fattan.809973">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" alt="facebook"  />
-  </a>
-  
+<div align="left">  
   <a href="https://instagram.com/fxttanar2209_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" alt="instagram"  />
   </a>
@@ -31,11 +27,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30" alt="email"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
